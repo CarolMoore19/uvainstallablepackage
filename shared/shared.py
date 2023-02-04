@@ -2,6 +2,9 @@ import re
 
 def afunction():
     print("This is the installed function")
+    
+def my_name():
+    print("Hi my name is Carol Moore and my UVA ID is cm6ag.")
 
 def clean_string(str_word):
     """
