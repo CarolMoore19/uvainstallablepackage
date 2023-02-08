@@ -1,4 +1,5 @@
 import sys
+import pytest
 sys.path.append('.')
 import shared as sh
 
