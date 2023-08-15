@@ -1,2 +1,2 @@
 # uvainstallablepackage
-Testing creating an installable python package installable via git and pip
+Creating an installable python package installable via git and pip
